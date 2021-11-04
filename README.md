@@ -5,7 +5,7 @@ It's using Node.js core modules:
 - `net`
 - `tls`
 
-This client is not perfect and can be not stable. I created it for learning how Redis works.
+This client is not perfect and can be not stable. I created it for learning how Redis and TCP works.
 ### Better production-ready Node.js clients:
 - `ioredis` (https://github.com/luin/ioredis)
 - `node-redis` (https://github.com/NodeRedis/node-redis)
