@@ -30,6 +30,7 @@ export class Client {
                     const callback = this.queue.shift();
                     if (reply instanceof Error) {
                         callback!(reply, null);
+                        return;
                     }
                     
                     callback!(null, reply);
