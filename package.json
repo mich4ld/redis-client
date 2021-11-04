@@ -1,0 +1,14 @@
+{
+  "name": "@mich4l/redis",
+  "version": "1.0.0",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "repository": "git@github.com:mich4ld/redis.git",
+  "author": "mich4ld <mchldziuba@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.6"
+  }
+}
